@@ -333,7 +333,6 @@ Page 10 of 11
 COM00011C
 
 Appendix A : SimpleCPUv1d instruction-set
-
 # INSTR IR15 IR14 IR13 IR12 IR11 IR10 IR09 IR08 IR07 IR06 IR05 IR04 IR03 IR02 IR01 IR00 
 
 # MOVE 0 0 0 0 RD RD X X K K K K K K K K
@@ -392,6 +391,7 @@ Appendix A : SimpleCPUv1d instruction-set
 
 
 # XOP2 1 1 1 1 RD RD RS RS X X X X 1 1 0 0 -- NOT IMPLEMENTED
+
 
 -– REG INDIRECT
 
